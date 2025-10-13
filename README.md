@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋! I’m Vinay Rathore<br><br>🚀 Passionate about AI, ML & the Web<br>💡 Turning curiosity into code.
+# 💫 Hi 👋! I’m Vinay Rathore
+<br>🚀 Passionate about AI, ML & the Web<br>💡 Turning curiosity into code.
 
 
 ## 🌐 Socials:
