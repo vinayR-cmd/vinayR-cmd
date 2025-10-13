@@ -1,6 +1,11 @@
 # 💫 Hi 👋! I’m Vinay Rathore
-# 👩‍💻 About Me:
-<br>🎓 Sophomore at KIET<br>🚀 Passionate about AI, ML & the Web<br>💡 Turning curiosity into code.
+
+## 👩‍💻 About Me:
+- 🎓 Sophomore at KIET.
+- 🚀 Passionate about AI, ML & the Web.
+- 💡 Turning curiosity into code.
+
+###
 
 
 ## 🌐 Socials:
