@@ -35,8 +35,9 @@
 
 ###
 
+![Snake animation - space](https://github.com/vinayR-cmd/vinayR-cmd/blob/output/space.svg)
 
-<img src="https://raw.githubusercontent.com/vinayR-cmd/vinayR-cmd/output/snake.svg" alt="Snake animation" />
+---
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
