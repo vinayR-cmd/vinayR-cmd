@@ -36,7 +36,7 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/vinayR-cmd/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vinayR-cmd/vinayR-cmd/output/snake.svg" alt="Snake animation" />
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
