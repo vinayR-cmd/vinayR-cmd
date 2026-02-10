@@ -57,15 +57,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayR-cmd&show_icons=true&theme=dark&hide_border=false&count_private=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=vinayR-cmd&theme=dark&hide_border=false" height="160" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinayR-cmd&show_icons=true&theme=dark&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=vinayR-cmd&theme=dark" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
+<div align="center">
 
 ![snake gif](https://github.com/vinayR-cmd/vinayR-cmd/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 
