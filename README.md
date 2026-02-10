@@ -1,4 +1,4 @@
-# 💫 Hi 👋! I’m Vinay Rathore
+# Hi 👋! I’m Vinay Rathore
 
 ## 👩‍💻 About Me:
 - 🎓 Sophomore at KIET.
