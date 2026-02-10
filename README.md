@@ -65,7 +65,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/vinayR-cmd/vinayR-cmd/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/vinayR-cmd/vinayR-cmd/blob/output/github-snake-dark.svg)
 
 ---
 
