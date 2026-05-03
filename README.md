@@ -1,69 +1,79 @@
-# Hi 👋! I’m Vinay Rathore  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20there%2C%20I%27m%20Vinay%20Rathore%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descAlignY=58&descSize=18" width="100%"/>
+<!-- <h1 align="center">Hi there, I'm Vinay Rathore 👋</h1> -->
 
-## About Me:
-- 🎓 Sophomore at **KIET**
-- 🚀 Passionate about **AI, ML & Web Development**
-- 💡 Turning curiosity into code
-
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rathore_vinay_12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinay-rathore-14249b328)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinay.workspace29@gmail.com)
+<p align="center">
+  <a href="mailto:vinay.workspace29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vinay-rathore-14249b328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/rathore_vinay_12"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-# 💻 Tech Stack:
+### 🧑‍💻 About Me
 
-### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+**AI, ML enthusiast transforming ideas into real-world solutions through code. Sophomore at KIET, driven by curiosity and a passion for building intelligent, scalable systems across domains like space technologies and computer vision.
 
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-
-### 🤖 AI / ML / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=plastic&logo=opencv&logoColor=black)
-
-### 📊 Data Analysis & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=plastic&logo=python&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS%20Cloud-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+Currently focused on Machine Learning, Deep Learning, LLMs, and Generative AI, with a keen interest in solving practical problems, creating impactful projects, and actively participating in hackathons.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vinayR-cmd&show_icons=true&theme=dark&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=vinayR-cmd&theme=dark" />
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br>TensorFlow</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br>PyTorch</td>
+    <td align="center"><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="48"/><br>Keras</td>
+    <td align="center"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="48"/><br>scikit-learn</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="48"/><br>OpenCV</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>GCP</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="48"/><br>Arduino</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=blender" width="48"/><br>Blender</td>
+    <td align="center"><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="48"/><br>NumPy</td>
+    <td align="center"><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="48"/><br>Pandas</td>
+    <td align="center"><img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white" height="48"/><br>Streamlit</td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Contributions
+### 📊 GitHub Stats
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayR-cmd&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayR-cmd&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p> -->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinayR-cmd&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🎯 GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayR-cmd&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
 <div align="center">
 
 ![snake gif](https://github.com/vinayR-cmd/vinayR-cmd/blob/output/github-snake-dark.svg)
@@ -72,17 +82,5 @@
 
 ---
 
-## 📲 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/vinay-rathore-14249b328/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
-  </a>
-</p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=vinayR-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
-
-<!-- Proudly created with GPRM -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" width="100%"/>
